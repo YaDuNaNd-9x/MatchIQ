@@ -1,0 +1,42 @@
+{
+    "model_name": "logistic_regression",
+    "features": [
+        "home_avg_points",
+        "home_avg_goals_for",
+        "home_avg_goals_against",
+        "home_win_rate",
+        "home_matches_available",
+        "away_avg_points",
+        "away_avg_goals_for",
+        "away_avg_goals_against",
+        "away_win_rate",
+        "away_matches_available",
+        "avg_points_difference",
+        "avg_goals_for_difference",
+        "avg_goals_against_difference",
+        "win_rate_difference",
+        "matches_available_difference",
+        "home_advantage"
+    ],
+    "classes": [
+        "H",
+        "D",
+        "A"
+    ],
+    "test_start_date": "2024-08-16",
+    "test_end_date": "2025-05-25",
+    "training_matches": 1520,
+    "testing_matches": 380,
+    "metrics": {
+        "logistic_regression": {
+            "accuracy": 0.4789473684210526,
+            "balanced_accuracy": 0.45808080808080803,
+            "macro_f1": 0.4584740949226931
+        },
+        "random_forest": {
+            "accuracy": 0.42894736842105263,
+            "balanced_accuracy": 0.4084881068752037,
+            "macro_f1": 0.4086324050827093
+        }
+    }
+}

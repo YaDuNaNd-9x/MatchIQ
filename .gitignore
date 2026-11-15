@@ -1,0 +1,69 @@
+cd ~/MatchIQ
+
+cat > .gitignore <<'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+frontend/.env.local
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+media/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+dist/
+build/
+npm-debug.log*
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Python coverage
+htmlcov/
+.coverage
+
+# Temporary backups
+src_backup_before_minimal_refresh/
+EOF
+# Secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+frontend/.env.local
+
+# Local backups
+MatchIQ-Frontend-Current.zip
+src_backup_before_minimal_refresh/
+*.zip
+
+# Dependencies and generated files
+venv/
+.venv/
+node_modules/
+.next/
+__pycache__/
+*.py[cod]
+.DS_Store

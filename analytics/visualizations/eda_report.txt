@@ -1,0 +1,38 @@
+MATCHIQ - EDA STATISTICAL REPORT
+==================================================
+
+Total matches: 1900
+Unique teams: 27
+
+Date range: 2020-09-12 00:00:00 to 2025-05-25 00:00:00
+
+Average goals per match: 2.92
+Average home goals: 1.56
+Average away goals: 1.35
+
+Match outcome distribution:
+result
+H    821
+D    433
+A    646
+
+Average goals by season:
+season
+2020-21    2.694737
+2021-22    2.818421
+2022-23    2.852632
+2023-24    3.278947
+2024-25    2.934211
+
+Top 10 attacking teams:
+home_team
+Manchester City FC           444
+Liverpool FC                 409
+Arsenal FC                   364
+Tottenham Hotspur FC         345
+Chelsea FC                   313
+Newcastle United FC          311
+Aston Villa FC               292
+Manchester United FC         289
+Brighton & Hove Albion FC    275
+West Ham United FC           270

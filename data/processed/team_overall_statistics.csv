@@ -1,0 +1,28 @@
+team,matches_played,wins,draws,losses,goals_for,goals_against,goal_difference,points,win_percentage
+Manchester City FC,190,133,31,26,444,169,275,430,70.0
+Liverpool FC,190,116,46,28,409,197,212,394,61.05
+Arsenal FC,190,114,35,41,364,193,171,377,60.0
+Chelsea FC,190,89,50,51,313,222,91,317,46.84
+Manchester United FC,190,89,42,59,289,256,33,309,46.84
+Tottenham Hotspur FC,190,89,30,71,345,274,71,297,46.84
+Aston Villa FC,190,86,37,67,292,258,34,295,45.26
+Newcastle United FC,190,82,45,63,311,266,45,291,43.16
+Brighton & Hove Albion FC,190,67,62,61,275,264,11,263,35.26
+West Ham United FC,190,71,43,76,270,289,-19,256,37.37
+Crystal Palace FC,190,60,59,71,239,270,-31,239,31.58
+Everton FC,190,60,50,80,206,266,-60,230,31.58
+Wolverhampton Wanderers FC,190,63,36,91,209,287,-78,225,33.16
+Brentford FC,152,54,38,60,228,224,4,200,35.53
+Fulham FC,152,48,37,67,191,221,-30,181,31.58
+Leicester City FC,152,49,30,73,214,257,-43,177,32.24
+AFC Bournemouth,114,39,26,49,149,184,-35,143,34.21
+Nottingham Forest FC,114,37,28,49,145,181,-36,139,32.46
+Leeds United FC,114,34,26,54,152,211,-59,128,29.82
+Southampton FC,152,29,33,90,152,294,-142,120,19.08
+Burnley FC,114,22,32,60,108,186,-78,98,19.3
+Sheffield United FC,76,10,9,57,55,167,-112,39,13.16
+Luton Town FC,38,6,8,24,52,85,-33,26,15.79
+West Bromwich Albion FC,38,5,11,22,35,76,-41,26,13.16
+Watford FC,38,6,5,27,34,77,-43,23,15.79
+Ipswich Town FC,38,4,10,24,36,82,-46,22,10.53
+Norwich City FC,38,5,7,26,23,84,-61,22,13.16
